@@ -1,4 +1,2 @@
-This project of Face Recognition App was created using ReactJS.
-The database for sign ins, registratons and user counts was managed using PostgreSQL.
-Project files were uploaded on GitHub and is deployed using Heroku Platform.
-- Akash Raturi
+This project is called Face Recognition App and it was developed using ReactJS and consists of both backend and frontend. It is a fully fledged web application that consists of Sign-in, Registration, User Scores etc. The database system that I used is PostgreSQL that stored email id, passwords, scores and all. It is deployed in Heroku which is a pretty good medium of website deployment. 
+The API used is Image Recognition API by Clarifai. User passwords were stored using Bcrpyt which is a password hashing function. 
